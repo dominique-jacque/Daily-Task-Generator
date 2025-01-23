@@ -20,7 +20,8 @@ The **Daily Task Generator** is an AI-powered tool designed to generate personal
 5. Stay productive!
 
 ## Examples
-Check out sample outputs in the [assets/task-examples/](assets/task-examples/) folder.
+![Screenshot 2025-01-22 191937](https://github.com/user-attachments/assets/7dc84d28-f838-400f-8634-15e7f2cbae55)
+
 
 ## What I Learned From This Project:
 Prompt engineering is one of the most important aspects when it comes to using PartyRock effectively. To achieve the best results, prompts need to be:
